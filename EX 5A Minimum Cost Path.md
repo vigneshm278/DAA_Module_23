@@ -1,4 +1,5 @@
-# EX 5A Minimum Cost Path
+Developed by: Vignesh M
+Register Number: 212223240176# EX 5A Minimum Cost Path
 ## DATE:
 ## AIM:
 To write a Python program using A Naive recursive implementation of Minimum Cost Path Problem.
@@ -15,8 +16,8 @@ To write a Python program using A Naive recursive implementation of Minimum Cost
 
 ## Program:
 ```
-Developed by: ESHWAR T
-Register Number:212223230054
+Developed by: Vignesh M
+Register Number: 212223240176
 
 R = int(input())
 C = int(input())
